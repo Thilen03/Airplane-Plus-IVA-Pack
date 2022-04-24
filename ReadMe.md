@@ -14,9 +14,20 @@ Click Through Blocker: https://forum.kerbalspaceprogram.com/index.php?/topic/170
 Raster Prop Monitor: https://forum.kerbalspaceprogram.com/index.php?/topic/190737-18x-112x-rasterpropmonitor-adopted/
 
 
+
+
+
+
+
 Installation:
 
 Place the downloaded file inside the GameData folder & Install all dependencies.
+
+
+
+
+
+
 
 
 Changelog:
