@@ -16,7 +16,7 @@ Installation:
 
 Place the downloaded file inside the GameData folder & Install all dependencies.
 
-Combatibility>
+Combatibility:
 
 1.12.3 Tested, Earlier versions unsure - try at own risk
 
