@@ -1,5 +1,7 @@
 Dependencies:
 
+Airplane Plus: https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/
+
 ASET Props Pack: https://forum.kerbalspaceprogram.com/index.php?/topic/116430-aset-props-pack-v15-for-the-modders-who-create-iva/
 
 ASET Avionics: https://forum.kerbalspaceprogram.com/index.php?/topic/116479-aset-avionics-pack-v-21-for-the-modders-who-create-iva/
