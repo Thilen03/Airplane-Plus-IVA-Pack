@@ -28,4 +28,4 @@ MK1 Viewer's Cockpit, Real world counterpart - Bell
 ![alt text](https://i.imgur.com/4qWP5yT.png)
 
 MK3S1 Cockpit, Real world counterpart - Cessna
-![alt text](https://i.imgur.com/XBcKHPB.png)
+![alt text](https://i.imgur.com/FVce4eP.png)
