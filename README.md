@@ -21,8 +21,11 @@ Combatibility:
 1.12.3 Tested, Earlier versions unsure - try at own risk
 
 
-Bombardier - Plane
+MK1 Buisness Cockpit, Real world counterpart - Bombardier
 ![alt text](https://i.imgur.com/XBcKHPB.png)
 
-Bell - Helicopter
+MK1 Viewer's Cockpit, Real world counterpart - Bell
 ![alt text](https://i.imgur.com/4qWP5yT.png)
+
+MK3S1 Cockpit, Real world counterpart - Cessna
+![alt text](https://i.imgur.com/XBcKHPB.png)
