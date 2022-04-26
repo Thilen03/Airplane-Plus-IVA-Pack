@@ -29,3 +29,6 @@ MK1 Viewer's Cockpit, Real world counterpart - Bell 206
 
 MK3S1 Cockpit, Real world counterpart - Cessna 170
 ![alt text](https://i.imgur.com/FVce4eP.png)
+
+MK3S1.5 Cockpit, Real world counterpart - Bell U-H1
+![alt text](https://i.imgur.com/4mBVFhR.png)
