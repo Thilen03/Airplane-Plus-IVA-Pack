@@ -21,11 +21,11 @@ Combatibility:
 1.12.3 Tested, Earlier versions unsure - try at own risk
 
 
-MK1 Buisness Cockpit, Real world counterpart - Bombardier
+MK1 Buisness Cockpit, Real world counterpart - Bombardier 6500
 ![alt text](https://i.imgur.com/XBcKHPB.png)
 
-MK1 Viewer's Cockpit, Real world counterpart - Bell
+MK1 Viewer's Cockpit, Real world counterpart - Bell 206
 ![alt text](https://i.imgur.com/4qWP5yT.png)
 
-MK3S1 Cockpit, Real world counterpart - Cessna
+MK3S1 Cockpit, Real world counterpart - Cessna 170
 ![alt text](https://i.imgur.com/FVce4eP.png)
