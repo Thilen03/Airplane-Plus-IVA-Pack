@@ -21,4 +21,8 @@ Combatibility:
 1.12.3 Tested, Earlier versions unsure - try at own risk
 
 
+Bombardier - Plane
 ![alt text](https://i.imgur.com/XBcKHPB.png)
+
+Bell - Helicopter
+![alt text](https://i.imgur.com/4qWP5yT.png)
