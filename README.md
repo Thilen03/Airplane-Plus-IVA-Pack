@@ -14,7 +14,7 @@ Raster Prop Monitor: https://forum.kerbalspaceprogram.com/index.php?/topic/19073
 
 Installation:
 
-Place the downloaded file inside the GameData folder & Install all dependencies.
+Place the downloaded file inside the GameData folder & Replace any existing files as well as install all dependencies.
 
 Combatibility:
 
