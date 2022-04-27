@@ -29,6 +29,9 @@ MK1 Buisness Cockpit, Real world counterpart - Bombardier 6500
 MK3S1 Cockpit, Real world counterpart - Cessna 170
 ![alt text](https://i.imgur.com/FVce4eP.png)
 
+Non-Commercial Cockpit, Real world counterpart - F-18 Super Hornet Cockpit
+![alt text](https://i.imgur.com/tf2yKcd.png)
+
 MK1 Viewer's Cockpit, Real world counterpart - Bell 206
 ![alt text](https://i.imgur.com/Jqk0rP3.png)
 
